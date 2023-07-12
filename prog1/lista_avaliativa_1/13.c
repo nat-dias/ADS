@@ -1,0 +1,1 @@
+/*Elabore um algoritmo que imprima todas as tabuadas de multiplicação de 1 até 10.*/

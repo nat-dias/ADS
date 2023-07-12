@@ -1,0 +1,1 @@
+/*Elabore um algoritmo que calcule o MMC (mínimo múltiplo comum) entre dois números lidos.*/

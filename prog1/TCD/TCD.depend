@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1689037518 source:c:\users\iftm\downloads\tcd (1)\tcd\structs.c
+
+1689036855 source:c:\users\iftm\downloads\tcd (1)\tcd\insere_vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"structs.c"
+
+1689037518 c:\users\iftm\downloads\tcd (1)\tcd\structs.c
+
+1689037430 source:c:\users\iftm\downloads\tcd (1)\tcd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"structs.c"
+
+1689037430 source:c:\users\iftm\downloads\tcd (1)\tcd\saldo_final.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"structs.c"
+
+1689034747 source:c:\users\iftm\downloads\tcd (1)\tcd\verifica_evento.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"structs.c"
+
+1689034747 source:c:\users\iftm\downloads\tcd (1)\tcd\cadastrar_evento.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"structs.c"
+
+1689035850 source:c:\users\iftm\downloads\tcd (1)\tcd\pesquisa_evento.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"structs.c"
+
+1689037533 source:c:\users\iftm\downloads\tcd (1)\tcd\resultado.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"structs.c"
+
